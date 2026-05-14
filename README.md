@@ -216,4 +216,4 @@ approach and adopt segment-specific targeting:
 
 ---
 
-*Analysis by: Matteo | May 2025*
+*Analysis by: Matteo Papucci | May 2026*
